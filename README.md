@@ -11,6 +11,9 @@ https://app.powerbi.com/reportEmbed?reportId=15febcbb-aae9-41a7-818a-5a60fba03a8
 
 ---
 
+<img width="1830" height="1028" alt="Screenshot 2026-01-13 150729" src="https://github.com/user-attachments/assets/695e0be7-f037-47d4-8453-8743ccf29b6e" />
+
+
 ## 🎯 Project Objective
 The goal of this project is to:
 - Analyze **customer purchasing behavior**
