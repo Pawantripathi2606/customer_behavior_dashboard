@@ -104,4 +104,4 @@ The dataset includes:
 - Add time-series analysis (monthly / yearly trends)
 - Predictive insights using Power BI forecasting
 - Customer lifetime value (CLV) analysis
-- Integration with real-time data sources
+- Integration with real-time data sources.
